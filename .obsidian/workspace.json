@@ -16,7 +16,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -28,7 +28,7 @@
               "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Juggl"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -182,8 +182,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -192,8 +192,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -241,7 +241,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "juggl:Juggl global graph": false,
       "obsidian-git:Open Git source control": false
     }
